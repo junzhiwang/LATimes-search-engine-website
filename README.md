@@ -8,7 +8,7 @@ store data and support full-text search.
 in JavaScript.
 
 The project will continue to updata:
-Incoming new update:
+###### Incoming new update:
 * Add **Redis** for in-memory speed-up search. Add **MongoDB** for durable storage.
 * Migrate data from Apache Solr to **Elasticsearch** to support distributed search and larger dataset.
 * Optimize front-end UI.
